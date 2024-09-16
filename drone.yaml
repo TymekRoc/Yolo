@@ -1,0 +1,6 @@
+# Ścieżki do zbiorów treningowych i walidacyjnych
+train: ./dataset/images/train  # ścieżka do obrazów treningowych
+val: ./dataset/images/val      # ścieżka do obrazów walidacyjnych
+
+nc: 2
+names: ['human', 'undefined']
